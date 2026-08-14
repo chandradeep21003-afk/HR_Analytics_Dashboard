@@ -4,9 +4,10 @@ An interactive Power BI dashboard designed to analyze workforce performance, emp
 
 ---
 
+
 # Dashboard Preview
 
-![HR Analytics Dashboard]([Dashboard.png](https://github.com/chandradeep21003-afk/HR_Analytics_Dashboard/blob/d5234dffc415259a57036b5ed8ca51383446019f/HR_Analytics_Dashboard.png))
+![HR Analytics Dashboard](HR_Analytics_Dashboard.png)
 
 ---
 
