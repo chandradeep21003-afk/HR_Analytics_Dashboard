@@ -71,18 +71,6 @@ This HR Analytics Dashboard was developed to provide a comprehensive view of org
 - **Power Query**
 - **Microsoft Excel**
 
----
-
-# Project Files
-
-| File | Description |
-|------|-------------|
-| `HR_Analytics_Dashboard.pbix` | Power BI dashboard |
-| `HR_Analytics_Data.xlsx` | Source dataset |
-| `Dashboard.png` | Dashboard preview image |
-
----
-
 This project demonstrates how HR data can be transformed into meaningful insights to improve employee retention, workforce planning, and organizational decision-making.
 
 ---
